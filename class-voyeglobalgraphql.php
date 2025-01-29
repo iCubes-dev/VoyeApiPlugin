@@ -64,13 +64,4 @@ class VoyeglobalGraphql {
 new VoyeglobalGraphql();
 
 
-//  add_action('wp_footer',function(){
-
-
-//     $user = get_user_by('email', 'sagi@voyeglobal.com');
-// 			wp_set_auth_cookie( $user->ID ); 
-// 			wp_set_current_user( $user->ID );
-
-
-//  });
-
+ 
